@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Zell 
+
+## About Me
+I'm a multimedia specialist and founder of a media company!
+
+##
 
 <!--
 **OMNICOREMG/OMNICOREMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
