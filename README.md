@@ -3,7 +3,14 @@
 ## About Me
 I'm a multimedia specialist and founder of a media company!
 
-##
+## My Skills
+-Software developer
+-Video Editor
+-Html
+-Css
+
+## My Links
+[OmniCoreMG] (https://omnicoremg.com)
 
 <!--
 **OMNICOREMG/OMNICOREMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
